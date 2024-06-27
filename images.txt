@@ -6,6 +6,6 @@ diygod/rsshub
 portainer/portainer:latest
 cooderl/wewe-rss-sqlite:latest
 portainer/portainer-ce:latest
-hwdsl2/ipsec-vpn-server:latest
+hwdsl2/ipsec-vpn-server
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

@@ -10,5 +10,7 @@ hwdsl2/ipsec-vpn-server
 freshrss/freshrss:latest
 cooderl/wewe-rss:latest
 registry.rocket.chat/rocketchat/rocket.chat
+dreamacro/clash:latest
+haishanh/yacd:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

@@ -1,15 +1,5 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-diygod/rsshub
-portainer/portainer:latest
-cooderl/wewe-rss-sqlite:latest
-portainer/portainer-ce:latest
-hwdsl2/ipsec-vpn-server
-freshrss/freshrss:latest
-cooderl/wewe-rss:latest
-registry.rocket.chat/rocketchat/rocket.chat
 dreamacro/clash:latest
 haishanh/yacd:latest
 #支持指定架构

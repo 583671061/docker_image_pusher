@@ -6,3 +6,4 @@ haishanh/yacd:latest
 --platform=linux/arm64 xiaoyaliu/alist
 portainer/portainer-ce:latest
 lyswhut/lx-music-sync-server
+hslr/sun-panel:latest

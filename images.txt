@@ -7,3 +7,4 @@ haishanh/yacd:latest
 portainer/portainer-ce:latest
 lyswhut/lx-music-sync-server
 hslr/sun-panel:latest
+grafana/grafana:latest

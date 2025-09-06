@@ -11,3 +11,4 @@ grafana/grafana:latest
 graphiteapp/graphite-statsd:latest
 influxdb:latest
 allinssl/allinssl:latest
+certimate/certimate:latest

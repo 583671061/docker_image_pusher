@@ -10,3 +10,4 @@ hslr/sun-panel:latest
 grafana/grafana:latest
 graphiteapp/graphite-statsd:latest
 influxdb:latest
+allinssl/allinssl:latest

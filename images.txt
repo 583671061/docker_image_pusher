@@ -1,14 +1,1 @@
-nginx
-#支持私库
-dreamacro/clash:latest
-haishanh/yacd:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-portainer/portainer-ce:latest
-lyswhut/lx-music-sync-server
-hslr/sun-panel:latest
-grafana/grafana:latest
-graphiteapp/graphite-statsd:latest
-influxdb:latest
-allinssl/allinssl:latest
-certimate/certimate:latest
+rundeck/rundeck

@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 rundeck/rundeck:5.15.0
 whyour/qinglong:latest
+rustdesk/rustdesk-server
